@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Inter";
+  src: url('../modules/fonts/Inter.ttf');
+}
+
+@mixin default-text {
+  font: {
+    family: Inter;
+    size:  13px;
+    weight: 400;
+  };
+  color: #FFFFFF;
+}

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Inter";
+    src: url('src/modules/fonts/Inter.ttf');
+}
+
+.totalPriceWrapper {
+    display: flex;
+    justify-content: flex-start;
+    width: 49%;
+}
+
+.totalPriceValue {
+    align-self: center;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    color: #FF66C4;
+}

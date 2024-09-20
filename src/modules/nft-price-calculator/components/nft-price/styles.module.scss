@@ -1,0 +1,14 @@
+
+.nftPriceWrapper {
+    display: flex;
+    justify-content: flex-start;
+    width: 49%;
+}
+
+.priceValue {
+    align-self: center;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+}
